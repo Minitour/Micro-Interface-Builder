@@ -6,9 +6,7 @@
 Ever since Playgrounds have been introduced back in WWDC 2014 we've seen many tutorials revolving around Swift and what we can do with it, However we have never really dug into iOS's interface development tools. With that being said, I decided to make my playground all about the Interface Builder tool that has been around in Xcode ever since we can remember.
 
 
-<img src="Screenshots/ss1.png" height="400" />
-
-<img src="Screenshots/ss2.png" height="400" />
+<img src="Screenshots/ss1.png" height="400" /> <img src="Screenshots/ss2.png" height="400" />
 
 
 ## The Architecture and Infrastructure
